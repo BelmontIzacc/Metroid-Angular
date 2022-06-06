@@ -15,8 +15,8 @@ versión 10.0.2. Node (https://nodejs.org/es/) versión 16.15.1
 1. Situarse en la ruta donde se descomprimió la carpeta del proyecto Angular
 2. Abrir una ventana de comandos CMD que apunte a la ruta del proyecto Angular
 3. Escibir en la CMD el comando "npm i" esto instalara todos los modulos requeridos para ejecutar Angular
-3. Escribir en la CMD el comando "ng serve"
-4. Esperar a que termine de compilar y que muestre un mensaje de servidor iniciado
+4. Escribir en la CMD el comando "ng serve"
+5. Esperar a que termine de compilar y que muestre un mensaje de servidor iniciado
 
 ## Visualizar proyecto de Angular
 
