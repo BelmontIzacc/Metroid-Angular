@@ -1,27 +1,24 @@
 # Metroid
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.2.
+Proyecto generado con: 
+Angular (https://github.com/angular/angular-cli) version 10.0.2.
+Node (https://nodejs.org/es/) version 16.15.1
 
-## Development server
+## Pasos para descargar el proyecto
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+1. Descargar el proyecto en .ZIP
+2. Buscar carpeta comprimida en descargas
+3. Descomprimir carpeta empleando la siguiente ruta: C:\Users\<Nombre de usuario>\Documents\<Carpeta del proyecto empleado para el curso MEAN>\metroid-angular (Esta ruta que menciono es mera sugerencia, en caso de ya tener una carpeta designada para el proyecto de MEAN, emplear esa ruta)
 
-## Code scaffolding
+## Ejecutar servidor Angular
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+1. Situarse en la ruta donde se decomprimio la carpeta del proyecto Angular
+2. Abrir una ventana de comandos CMD que apunte a la ruta del proyecto Angular
+3. Escribir en la CMD el comando "ng serve"
+4. Esperar a que termine de compilar y que muestre un mensaje de servidor iniciado
 
-## Build
+## Visualizar proyecto de Angular
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+En el navegador web de preferencia, ir a la siguiente URL: `http://localhost:4200/`
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
